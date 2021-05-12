@@ -1,3 +1,5 @@
+![](https://github.com/vikyd/note-bigfile/blob/master/img/whu-width.jpg?raw=true)
+
 # 技术笔记
 https://github.com/vikyd/note
 
